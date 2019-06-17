@@ -1,0 +1,17 @@
+Tutorial By!
+Author By : MRX.L0LZ404
+Facebook  : Andrea Ferdyanzah
+Contact   : Andreaferdyanzah32@gmail.com
+$ pkg update && pkg upgrade
+$ pkg install python
+$ pkg install python2
+$ pkg install php
+$ pkg install git
+$ pkg install pip2
+$ pip2 install mechanize
+$ git clone https://github.com/kopaskacyberteam/FbDark.git
+$ cd FbDark
+$ ls
+$ sh FbDark.sh Or Bash FbDark.sh
+
+Thanks You Budy!
