@@ -257,7 +257,7 @@ echo $cy"Moga Aja Lu Tenang Di Alam Sana"
 sleep 2
 echo $i"Kalo Ada Kerusakan Script Inbox Gw Eaa Bngst!"
 sleep 2
-echo $ku"WhatsApp :"$i" 085835787069"
+echo $ku"WhatsApp :"$i" 0895803946731"
 echo $ku"Facebook :"$i" Andrea Ferdyanzah"
 sleep 2
 echo $pur">> Thanks Eaa Bngsat Karena Udah Support Gw <<"
